@@ -1,4 +1,5 @@
 # Environmental Enforcement Watch
+![Environmental Enforcement Watch logo](https://www.environmentalenforcementwatch.org/static/bf7ebd06042a6474924e9b35fcf4d374/90171/eew-logo.png)
 The [Environmental Enforcement Watch (EEW)](https://www.environmentalenforcementwatch.org/) is a project of the [Environmental Data & Governance Initiative](https://envirodatagov.org/) receiving 2021 ESIP Lab funding for the project "Developing an Environmental Enforcement Data Portal for Grassroots and Congressional Action".
 
 # Project Description
