@@ -3,6 +3,15 @@ The [Environmental Enforcement Watch (EEW)](https://www.environmentalenforcement
 
 ![Environmental Enforcement Watch logo](https://www.environmentalenforcementwatch.org/static/bf7ebd06042a6474924e9b35fcf4d374/90171/eew-logo.png)
 
+# Project Assets
+* [Website](//environmentalenforcementwatch.org)
+* [Website source code](https://github.com/edgi-govdata-archiving/EEW-Website)
+* [Jupyter Notebooks](https://github.com/edgi-govdata-archiving/ECHO-Cross-Program)
+* [EEW Report Card generation code](https://github.com/edgi-govdata-archiving/EEW-ReportCard-Data)
+* [Support code for Jupyter Notebooks](https://github.com/edgi-govdata-archiving/ECHO_modules)
+* [ESIP summer meeting session](https://2021esipsummermeeting.sched.com/event/b7bfcfb7b3efd99bd9dedaa8341a2b82)
+* [Notes from ESIP workshop](https://docs.google.com/document/d/1xFD8Luv6u34uKQHh48znXWiykcFUiZpKfroBSn-1wls/edit)
+
 # Project Description
 Vital data about federal environmental enforcement actions against facilities that pollute the soil, air, and water is currently available but largely inaccessible in the U.S. Environmental Protection Agency’s (EPA) [Enforcement and Compliance History Online (ECHO) database](https://echo.epa.gov/). In this project, we are building a web portal to share accessible data tools so the public can use ECHO data, to answer questions about polluting facilities in their areas of interest and draw attention to their findings.
 
