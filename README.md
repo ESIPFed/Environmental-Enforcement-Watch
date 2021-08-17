@@ -1,6 +1,7 @@
 # Environmental Enforcement Watch
-![Environmental Enforcement Watch logo](https://www.environmentalenforcementwatch.org/static/bf7ebd06042a6474924e9b35fcf4d374/90171/eew-logo.png)
 The [Environmental Enforcement Watch (EEW)](https://www.environmentalenforcementwatch.org/) is a project of the [Environmental Data & Governance Initiative](https://envirodatagov.org/) receiving 2021 ESIP Lab funding for the project "Developing an Environmental Enforcement Data Portal for Grassroots and Congressional Action".
+
+![Environmental Enforcement Watch logo](https://www.environmentalenforcementwatch.org/static/bf7ebd06042a6474924e9b35fcf4d374/90171/eew-logo.png)
 
 # Project Description
 Vital data about federal environmental enforcement actions against facilities that pollute the soil, air, and water is currently available but largely inaccessible in the U.S. Environmental Protection Agency’s (EPA) [Enforcement and Compliance History Online (ECHO) database](https://echo.epa.gov/). In this project, we are building a web portal to share accessible data tools so the public can use ECHO data, to answer questions about polluting facilities in their areas of interest and draw attention to their findings.
@@ -15,4 +16,13 @@ EDGI has been working for a year on the Environmental Enforcement Watch Project 
 ## Impact
 * Demonstrate and prototype open source software for a more citizen science and community-based approach to environmental oversight than existing portals offered by the EPA.
 * Invite members of the public to engage with environmental science data, letting them ask meaningful questions even at a novice level of data science and form critical questions of data quality that are often glossed over by the time “results” reach the public.
+
+# Licensing
+This repository is [CC-0 licensed](https://github.com/ESIPFed/Environmental-Enforcement-Watch/blob/main/LICENSE).
+
+Materials linked from this repository have licensing on their own repos. In general, [GPLv3](http://gplv3.fsf.org/) is our _preferred_ license for code and [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) for creative works and documentation.
+
+All EDGI repos are open source and openly licensed.
+
+![EDGI logo](https://envirodatagov.org/wp-content/uploads/2017/03/EDGI_Logo-Horiz_Hi-Res_Transp.png)
 
