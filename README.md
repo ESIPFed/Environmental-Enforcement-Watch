@@ -12,6 +12,20 @@ The [Environmental Enforcement Watch (EEW)](https://www.environmentalenforcement
 * [ESIP summer meeting session](https://2021esipsummermeeting.sched.com/event/b7bfcfb7b3efd99bd9dedaa8341a2b82)
 * [Notes from ESIP workshop](https://docs.google.com/document/d/1xFD8Luv6u34uKQHh48znXWiykcFUiZpKfroBSn-1wls/edit)
 
+# Key Learnings
+* Created a dataset of specific user questions from community partners— this will let us prioritize common questions and return to those partners as our work/database better covers specific questions.
+* People come to us and our resources with many different types of need; our resources should be built to support very self-directed drilling-down into a topic, rather than high-level reports and abstractions.
+* At the same time, high-level overviews are necessary to help people identify which resources are appropriate to their problem area.
+* Per user needs, website rebuild focuses on making specific resources more findable: a report for a specific area or across a topic, a Notebook for a particular type of question, a tutorial, etc.
+* Design concept of the "info card" deployed across website, creating a more visually-focused and easily expanded design paradigm for many formats of information.
+* Improvements to the website framework include e.g. .mdx files, which make file organization more straightforward and more easily edited by less-technically-trained team members.
+
+# Outputs
+* Dataset of user questions not shared publicly to protect the privacy of participants, but please let us know if it would be helpful to your work to learn more.
+* Fully rebuilt and improved website at environmentalenforcementwatch.org, including site upgrades and excellent accessibility standards.
+* Previously, there were 76 report cards across two key committees, one in the House and one in the Senate, in advance of the 2020 election. Now, there are reports for every state and congressional district, and they update automatically every few weeks with new information.
+* New Watershed Notebook allows a deep dive on facility violations and enforcement across various types of EPA legislation by watershed boundary.
+
 # Project Description
 Vital data about federal environmental enforcement actions against facilities that pollute the soil, air, and water is currently available but largely inaccessible in the U.S. Environmental Protection Agency’s (EPA) [Enforcement and Compliance History Online (ECHO) database](https://echo.epa.gov/). In this project, we are building a web portal to share accessible data tools so the public can use ECHO data, to answer questions about polluting facilities in their areas of interest and draw attention to their findings.
 
