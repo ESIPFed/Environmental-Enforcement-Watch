@@ -69,15 +69,19 @@ We addressed these questions in two interrelated outputs:
 * Fully rebuilt and improved website at environmentalenforcementwatch.org, including site upgrades and excellent accessibility standards.
 
 * New Watershed Notebook allows a deep dive on facility violations and enforcement across various types of EPA legislation by watershed boundary.
-* The Watershed notebooks address questions 1-6 above. These allow analysis of the major emitters and the composition of what is being emitted, 
+* The Watershed notebooks address questions 1-6 above. These allow analysis of the major emitters and the composition of what is being emitted, such as facilities that are most non-compliant with the Clean Water Act over the past 13 quarters, or a little over three years
+
+![image](https://user-images.githubusercontent.com/454690/142071642-1c64342c-6b6e-4207-8642-11c0c8637e1f.png)
+![image](https://user-images.githubusercontent.com/454690/142071541-4fb9481d-1b0f-411a-82f9-a1364dc30c1b.png)
+
 * Analysis can be scaled in the notebooks from a single watershed to an entire river network using USGS HUC codes.
-* The notebooks generate maps of the location of emitters and the scale of their emissions.
-![image](https://user-images.githubusercontent.com/454690/142069974-c292f236-0d1f-43b2-b2e4-788bb8bed79c.png)
-![image](https://user-images.githubusercontent.com/454690/142070294-bc928426-3d3c-42f9-b268-7cff3d70e2d2.png)
+* The notebooks generate maps of the location of emitters and the scale of their emissions. 
+
+These are orange circles, sized to the number of violations reported. Those that have not reported violations are represented by small black circles:
+![image](https://user-images.githubusercontent.com/454690/142071472-8b27b953-9cd3-434b-8e48-db0024ccb50a.png)
 
 * Previously, there were 76 report cards across two key committees, one in the House and one in the Senate, in advance of the 2020 election. Now, there are reports for every state and congressional district, and they update automatically every few weeks with new information.
-* These expanded congressional district report cards address questions 7-11. They show the levels of violations, inspections and enforcement actions under the major environmental laws CWA, CAA, RCRA since 2001 and allow user to track overall patterns. They identify the top 10 facilities out of compliance and link to reports on those specific facilities emission from the EPA. *We are working on a national level summary from these reports.
-
+* These expanded congressional district report cards address questions 7-11. They show the levels of violations, inspections and enforcement actions under the major environmental laws CWA, CAA, RCRA since 2001 and allow user to track overall patterns. They identify the top 10 facilities out of compliance and link to reports on those specific facilities emission from the EPA. We are working on a national-level summary from these reports.
 
 # Licensing
 This repository is [CC-0 licensed](https://github.com/ESIPFed/Environmental-Enforcement-Watch/blob/main/LICENSE).
